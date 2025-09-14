@@ -1,2 +1,2 @@
-# Getting-to-know-Python
+# lesson_1
 Домашнее задание
